@@ -31,7 +31,7 @@ Immutability, algebraic data types, pure functions, and everything that makes re
 ---
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jastrzumb&show_icons=true&include_all_commits=true&theme=darcula)](https://github-stats-extended.vercel.app/api?username=jastrzumb&show_icons=true&include_all_commits=true&theme=darcula)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jastrzumb&layout=compact&langs_count=10&theme=darcula)](https://github-stats-extended.vercel.app/api/top-langs?username=jastrzumb&layout=compact&langs_count=8&theme=darcula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jastrzumb&layout=compact&langs_count=8&theme=darcula)](https://github-stats-extended.vercel.app/api/top-langs?username=jastrzumb&layout=compact&langs_count=8&theme=darcula)
 
 ---
 
