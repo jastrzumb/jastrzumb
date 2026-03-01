@@ -30,10 +30,8 @@ Immutability, algebraic data types, pure functions, and everything that makes re
 
 ---
 
-<p>
-<a href="https://github.com/jastrzumb"><img height="160" src="https://github-stats-extended.vercel.app/api?username=jastrzumb&show_icons=true&rank_icon=github" /></a>
-<a href="https://github.com/jastrzumb"><img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jastrzumb&layout=compact&langs_count=6" /></a>
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jastrzumb&show_icons=true&include_all_commits=true&theme=darcula)](https://github-stats-extended.vercel.app/api?username=jastrzumb&show_icons=true&include_all_commits=true&theme=darcula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jastrzumb&layout=donut&langs_count=6&theme=darcula)](https://github-stats-extended.vercel.app/api/top-langs?username=jastrzumb&layout=donut&langs_count=6&theme=darcula)
 
 ---
 
